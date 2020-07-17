@@ -2,3 +2,4 @@
 
 echo "sending email";
 
+echo "testing";
